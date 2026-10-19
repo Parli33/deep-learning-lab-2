@@ -1,0 +1,14 @@
+data/
+models/
+*.pt
+*.npz
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.python/
+.idea/
+pyproject.toml
+uv.lock
+.python-version
+*.tar.gz
+2.+Obuchenie+nei_s_#774_s_ronnoi_s_#774_s_+seti+s+nulja.pdf
